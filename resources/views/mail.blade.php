@@ -1,0 +1,1 @@
+<label>OTP &nbsp;: &nbsp;</label>{{$code}}
